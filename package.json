@@ -1,0 +1,8 @@
+{
+  "name": "journalion",
+  "version": "2.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:verekia/npm-journalion.git",
+  "author": "Jonathan Verrecchia <jonathan.verrecchia@gmail.com>",
+  "license": "MIT"
+}
